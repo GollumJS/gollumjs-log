@@ -1,6 +1,6 @@
 {
   "name": "gollumjs-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Override console.log but keep file and line number.",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,8 @@
     "LICENSE",
     "index.js",
     "index.js",
-    "tsconfig.json"
+    "tsconfig.json",
+    "package.json"
   ],
   "devDependencies": {
     "typescript": "^2.3.2"
