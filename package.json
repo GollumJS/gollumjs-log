@@ -1,0 +1,38 @@
+{
+  "name": "gollumjs-log",
+  "version": "1.0.0",
+  "description": "Override console.log but keep file and line number.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node node_modules/typescript/bin/tsc "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GollumJS/gollumjs-log.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "error",
+    "keep",
+    "line",
+    "file"
+  ],
+  "author": "Damien Duboeuf <smeagolworms4@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/GollumJS/gollumjs-log/issues"
+  },
+  "homepage": "https://github.com/GollumJS/gollumjs-log/blob/master/README.md",
+  "dependencies": {
+  },
+  "files": [
+    "README.mb",
+    "LICENSE",
+    "index.js",
+    "index.js",
+    "tsconfig.json"
+  ],
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
